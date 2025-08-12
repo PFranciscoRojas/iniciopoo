@@ -2,5 +2,6 @@
 2. Antonio Benjamin Parra Velasquez
 3. Jeronimo david  unigarro melo 
 4. Erik Danilo Carlosama Muñoz
-5. Juan Carlos Muñoz Pabon
-6. Sara María Ojeda López
+5. cristhian david orbes lasso
+6. Valery Nickol Rosero Molina
+7. Sara María Ojeda López
