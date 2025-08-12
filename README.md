@@ -4,3 +4,4 @@
 4. cristhian david orbes lasso
 5. Valery Nickol Rosero Molina
 6. Johan David Delgado Delgado
+7. Jacobo Andres Solarte Otero
