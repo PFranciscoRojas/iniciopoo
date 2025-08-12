@@ -4,3 +4,4 @@
 4. Erik Danilo Carlosama Muñoz
 5. cristhian david orbes lasso
 6. Valery Nickol Rosero Molina
+7. Johan David Delgado Delgado
